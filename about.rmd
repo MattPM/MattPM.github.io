@@ -1,0 +1,13 @@
+---
+title: "About"
+output: 
+  html_document:
+    toc: FALSE
+---
+#### Matt Mulè 
+[orcid](https://orcid.org/0000-0001-8457-2716) || [google scholar](https://scholar.google.com/citations?user=eDbDGyIAAAAJ&hl=en) || [github](https://github.com/MattPM)  
+  
+  
+  
+I am a MD-PhD student in the NIH Oxford-Cambridge Scholars program. I currently work at the NIH intramural research campus under the mentorship of [John Tsang (NIAID)](https://www.niaid.nih.gov/research/john-tsang-phd). Our research in Collaboration with [Ken Smith (Cambridge)](http://www.med.cam.ac.uk/smith/) focuses on exploring the impact of population-level variations in human immune system baseline "set points" perturbation responses in many contexts with a recent focus on vaccination and cancer immunotherapy. I've recently been focusing on heirarchical statistical modeling of genomic data, including developing analysis tools for CITE-seq and other types of multimodal single cell data. 
+

@@ -1,0 +1,35 @@
+---
+title: "dsb"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+<!-- badges: start -->
+[![CRAN status](https://www.r-pkg.org/badges/version/dsb)](https://CRAN.R-project.org/package=dsb)
+<!-- badges: end -->
+
+###  <a href='https://mattpm.github.io/dsb/'><img src='man/figures/sticker2.png' align="right" width="175" /></a>  dsb: a method for normalizing and denoising antibody derived tag data from CITE-seq, ASAP-seq, TEA-seq and related assays.
+
+```{r, include = FALSE}
+library(here)
+knitr::opts_chunk$set(
+  #tidy = TRUE,
+  #tidy.opts = list(width.cutoff = 95),
+  warning = FALSE, 
+  eval = FALSE,
+  root.dir = here()
+)
+```
+
+The dsb R package is available on CRAN: to install: `install.packages('dsb')`  
+[**CRAN: latest dsb release, documentation and vignettes**](https://CRAN.R-project.org/package=dsb)  
+
+dsb is also available for *Python* with muon:  
+[**muon documentation**](https://muon.readthedocs.io/en/latest/omics/citeseq.html)  
+
+Please cite the dsb manuscript if you used our software or found the experimental and modeling derivation of ADT noise sources in our paper helpful:  
+[**dsb manuscript**](https://www.biorxiv.org/content/10.1101/2020.02.24.963603v3)  
+
+See news.md for updates.  
+[news.md](https://github.com/niaid/dsb/blob/master/NEWS.md)  

@@ -1,0 +1,10 @@
+---
+title: "contact"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+my email: mattmule AT gmail.com  
+[follow me on twitter](https://twitter.com/MPMule) I post science and medicine topics I find interesting. 
+

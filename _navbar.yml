@@ -1,0 +1,19 @@
+name: "Mywebsite"
+title: " "
+type: inverse
+left:
+  - text: "home"
+    href: ./index.html
+  - text: "About"
+    href: ./about.html
+  - text: "software"
+    menu:
+       - text: "dsb"
+         href: ./dsb.ref.html
+  - text: "posts"
+    href: ./posts.html
+  - text: "contact"
+    href: ./contact.me.html
+right:
+  - icon: fa-github fa-lg
+    href: https://github.com/MattPM
