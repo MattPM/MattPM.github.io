@@ -9,5 +9,6 @@ output:
   
   
   
-I am a MD-PhD student in the NIH Oxford-Cambridge Scholars program. I currently work at the NIH intramural research campus under the mentorship of [John Tsang (NIAID)](https://www.niaid.nih.gov/research/john-tsang-phd). Our research in Collaboration with [Ken Smith (Cambridge)](http://www.med.cam.ac.uk/smith/) focuses on exploring the impact of population-level variations in human immune system baseline "set points" perturbation responses in many contexts with a recent focus on vaccination and cancer immunotherapy. I've recently been focusing on heirarchical statistical modeling of genomic data, including developing analysis tools for CITE-seq and other types of multimodal single cell data. 
+I am a MD-PhD student in the NIH Oxford-Cambridge Scholars program. I currently work at the NIH intramural research campus under the mentorship of [John Tsang (NIAID)](https://www.niaid.nih.gov/research/john-tsang-phd). My PhD work in collaboration with [Ken Smith (Cambridge)](http://www.med.cam.ac.uk/smith/) focuses on exploring population-level variations in immune system baseline "set points" and how they connect to perturbation responses in many contexts, with a recent focus on vaccination and cancer immunotherapy. 
 
+A major component of this work is statistical modeling of genomic data. More specifically I am trying to deconstruct variance patterns at different levels of organisation, for example, between clinical outcome groups, within individuals, celltypes, and down to "absolute deconvolution" of molecular variations in single cells.  
