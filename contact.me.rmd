@@ -6,5 +6,5 @@ output:
 ---
 
 my email: mattmule AT gmail.com  
-[follow me on twitter](https://twitter.com/MPMule) I post science and medicine topics I find interesting. 
+[on twitter](https://twitter.com/MPMule) I post basic science and medicine papers.
 

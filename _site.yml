@@ -2,8 +2,9 @@ name: "MattPM"
 output_dir: 'docs'
 output:
   html_document:
-    theme: spacelab
-    highlight: zenburn
+    theme: yeti
+    nav_style: dark
+    highlight: 
     toc: true
     toc_depth: 2
     toc_float:

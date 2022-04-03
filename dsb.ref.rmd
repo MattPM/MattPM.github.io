@@ -5,11 +5,12 @@ output:
     toc: FALSE
 ---
 
+
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/dsb)](https://CRAN.R-project.org/package=dsb)
 <!-- badges: end -->
 
-###  <a href='https://mattpm.github.io/dsb/'><img src='man/figures/sticker2.png' align="right" width="175" /></a>  dsb: a method for normalizing and denoising antibody derived tag data from CITE-seq, ASAP-seq, TEA-seq and related assays.
+#### <strong> <a href='https://mattpm.github.io/dsb/'><img src='man/figures/sticker2.png' align="right" width="135" /></a>  dsb: a method for normalizing and denoising antibody derived tag data from CITE-seq, ASAP-seq, TEA-seq and related assays. </strong>
 
 ```{r, include = FALSE}
 library(here)
@@ -22,8 +23,14 @@ knitr::opts_chunk$set(
 )
 ```
 
-The dsb R package is available on CRAN: to install: `install.packages('dsb')`  
-[**CRAN: latest dsb release, documentation and vignettes**](https://CRAN.R-project.org/package=dsb)  
+The dsb R package is available on [**CRAN: latest dsb release**](https://CRAN.R-project.org/package=dsb)  
+to install in R: `install.packages('dsb')`  
+
+#### Vignettes:  
+[**Using dsb in an end to end CITE-seq workflow including WNN clustering**](https://cran.rstudio.com/web/packages/dsb/vignettes/end_to_end_workflow.html)  
+[**How the dsb method works**](https://cran.rstudio.com/web/packages/dsb/vignettes/understanding_dsb.html)  
+[**Normalizing ADTs if empty drops are not available**](https://cran.rstudio.com/web/packages/dsb/vignettes/no_empty_drops.html)  
+[**FAQ etc.**](https://cran.r-project.org/web/packages/dsb/vignettes/additional_topics.html)  
 
 dsb is also available for *Python* with muon:  
 [**muon documentation**](https://muon.readthedocs.io/en/latest/omics/citeseq.html)  
@@ -32,4 +39,4 @@ Please cite the dsb manuscript if you used our software or found the experimenta
 [**dsb manuscript**](https://www.biorxiv.org/content/10.1101/2020.02.24.963603v3)  
 
 See news.md for updates.  
-[news.md](https://github.com/niaid/dsb/blob/master/NEWS.md)  
+[**news.md**](https://github.com/niaid/dsb/blob/master/NEWS.md)  
