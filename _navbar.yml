@@ -4,7 +4,7 @@ type: inverse
 left:
   - text: "home"
     href: ./index.html
-  - text: "About"
+  - text: "about"
     href: ./about.html
   - text: "software"
     href: ./dsb.ref.html

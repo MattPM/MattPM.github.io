@@ -2,10 +2,13 @@ name: "MattPM"
 output_dir: 'docs'
 output:
   html_document:
-    theme: yeti
+    theme: lumen
+    bootstrap: 5
     nav_style: dark
     highlight: 
     toc: true
     toc_depth: 2
-    toc_float:
-      collapsed: false
+    toc_float: true
+    css: style.css
+    
+

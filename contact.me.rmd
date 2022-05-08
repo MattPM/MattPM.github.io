@@ -5,6 +5,6 @@ output:
     toc: FALSE
 ---
 
-my email: mattmule AT gmail.com  
-[on twitter](https://twitter.com/MPMule) I post basic science and medicine papers.
+my (permanent) email: mattmule AT gmail.com  
+[on twitter](https://twitter.com/MPMule) 
 

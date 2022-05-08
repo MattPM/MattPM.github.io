@@ -1,13 +1,10 @@
 ---
-title: ""
+title: "&"
 output: 
   html_document:
     toc: FALSE
 ---
 ##### Matt Mulè || [orcid](https://orcid.org/0000-0001-8457-2716) || [google scholar](https://scholar.google.com/citations?user=eDbDGyIAAAAJ&hl=en) || [github](https://github.com/MattPM)  
-
-<br /> 
-<br /> 
 
 I am a MD-PhD student in the NIH Oxcam program currently working at the NIH intramural research campus under the mentorship of [John Tsang (NIAID)](https://www.niaid.nih.gov/research/john-tsang-phd). My PhD work in collaboration with [Ken Smith (Cambridge)](http://www.med.cam.ac.uk/smith/) focuses on linking human immune system variations to emergent clinical phenotypes in cancer, vaccination, and autoimmunity. Much of my current focus includes statistical modeling of high throughput immune system measurements, for example, transcriptome, proteome and single cell multi-omics data generated from human clinical cohorts. 
   
