@@ -42,12 +42,12 @@ dsb is also available in [Python through *muon*](https://muon.readthedocs.io/en/
 <br> 
 <br> 
 
-## [scglmmr](https://https://github.com/MattPM/scglmmr) 
+## [scglmmr](https://github.com/MattPM/scglmmr) 
 [![DOI](https://zenodo.org/badge/330215343.svg)](https://zenodo.org/badge/latestdoi/330215343)  
 
 #### <strong> scglmmr: An R package for implementing mixed effects models on single cell data with complex experiment designs. </strong>  
 
-The scglmmr R package is available on [**Github: latest scglmmr release**](https://https://github.com/MattPM/scglmmr)  
+The scglmmr R package is available on [**Github: latest scglmmr release**](https://github.com/MattPM/scglmmr)  
 to install in R `devtools::install_github(repo = "https://github.com/MattPM/scglmmr")`  
 This package is under active development. 
 
