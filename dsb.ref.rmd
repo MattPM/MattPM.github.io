@@ -1,16 +1,9 @@
 ---
-title: "dsb"
+title: "software"
 output: 
   html_document:
     toc: FALSE
 ---
-
-
-<!-- badges: start -->
-[![CRAN status](https://www.r-pkg.org/badges/version/dsb)](https://CRAN.R-project.org/package=dsb)
-<!-- badges: end -->
-
-#### <strong> <a href='https://mattpm.github.io/dsb/'><img src='man/figures/sticker2.png' align="right" width="135" /></a>  dsb: a method for normalizing and denoising antibody derived tag data from CITE-seq, ASAP-seq, TEA-seq and related assays. </strong>
 
 ```{r, include = FALSE}
 library(here)
@@ -23,6 +16,15 @@ knitr::opts_chunk$set(
 )
 ```
 
+
+## [dsb](https://CRAN.R-project.org/package=dsb)  
+
+<!-- badges: start -->
+[![CRAN status](https://www.r-pkg.org/badges/version/dsb)](https://CRAN.R-project.org/package=dsb)
+<!-- badges: end -->
+
+#### <strong> <a href='https://mattpm.github.io/dsb/'><img src='man/figures/sticker2.png' align="right" width="135" /></a>  dsb: a method for normalizing and denoising antibody derived tag data from CITE-seq, ASAP-seq, TEA-seq and related assays. </strong>
+
 The dsb R package is available on [**CRAN: latest dsb release**](https://CRAN.R-project.org/package=dsb)  
 to install in R: `install.packages('dsb')`  
 
@@ -32,11 +34,23 @@ to install in R: `install.packages('dsb')`
 3. [**Normalizing ADTs if empty drops are not available**](https://cran.rstudio.com/web/packages/dsb/vignettes/no_empty_drops.html)  
 4. [**FAQ etc.**](https://cran.r-project.org/web/packages/dsb/vignettes/additional_topics.html)  
 
-dsb is also available for *Python* with muon:  
-[**muon documentation**](https://muon.readthedocs.io/en/latest/omics/citeseq.html)  
+This method is described in [**Mulè, Martins, and Tsang, Nature Communications (2022)**](https://www.nature.com/articles/s41467-022-29356-8)
 
-Please cite the dsb manuscript if you used our software or found the experimental and modeling derivation of ADT noise sources in our paper helpful:  
-[**dsb manuscript**](https://www.nature.com/articles/s41467-022-29356-8)  
+dsb is also available in [Python through *muon*](https://muon.readthedocs.io/en/latest/omics/citeseq.html)  
 
-See news.md for updates.  
-[**news.md**](https://github.com/niaid/dsb/blob/master/NEWS.md)  
+  
+<br> 
+<br> 
+
+## [scglmmr](https://https://github.com/MattPM/scglmmr) 
+[![DOI](https://zenodo.org/badge/330215343.svg)](https://zenodo.org/badge/latestdoi/330215343)  
+
+#### <strong> scglmmr: An R package for implementing mixed effects models on single cell data with complex experiment designs. </strong>  
+
+The scglmmr R package is available on [**Github: latest scglmmr release**](https://https://github.com/MattPM/scglmmr)  
+to install in R `devtools::install_github(repo = "https://github.com/MattPM/scglmmr")`  
+This package is under active development. 
+
+
+
+

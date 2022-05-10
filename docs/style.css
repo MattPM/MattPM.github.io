@@ -12,3 +12,7 @@ body {
 a:hover {
     color: #ff5800; /* color when hovering */
   }
+  
+ h1 {
+  text-align: center;
+}
