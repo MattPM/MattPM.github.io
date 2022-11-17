@@ -2,10 +2,8 @@ name: "Mywebsite"
 title: " "
 type: inverse
 left:
-  - text: "home"
-    href: ./index.html
   - text: "about"
-    href: ./about.html
+    href: ./index.html
   - text: "software"
     href: ./dsb.ref.html
   - text: "posts"
