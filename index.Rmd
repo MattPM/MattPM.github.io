@@ -1,11 +1,13 @@
 ---
-title: "&"
+title: ""
 output: 
   html_document:
     toc: FALSE
 ---
-##### <strong>  Matt Mulè, PhD || [orcid](https://orcid.org/0000-0001-8457-2716) || [google scholar](https://scholar.google.com/citations?user=eDbDGyIAAAAJ&hl=en) || [github](https://github.com/MattPM)  </strong> 
+##### <strong>  Matt Mulè, PhD || [google scholar](https://scholar.google.com/citations?user=eDbDGyIAAAAJ&hl=en) || [github](https://github.com/MattPM)  </strong> 
 
-I'm an MD-PhD student in the NIH Oxcam program. 
+I'm a MD-PhD student in the NIH Oxcam program.  
 
-My work with [John Tsang (NIAID)](https://www.niaid.nih.gov/research/john-tsang-phd) and [Ken Smith (Cambridge)](http://www.med.cam.ac.uk/smith/) focuses on defining multcellular phenotypes linked to meaninfgul clinical phenotypes in cancer, vaccination, and autoimmune disease. We develop formal analysis frameworks for analyzing high throughput immune system measurements, for example, transcriptome, proteome and multimodal single cell data generated from human clinical cohorts. My main approaches are using mixed effects models and various machine learning approaches to integrate multimodal data across different biological scales as a means to understand the circuitry of immune system states. The goals of these approaches are both to answer basic research questions about the wiring of the human immune system while informing biomarker development and therapeutic strategies in different clinical contexts.
+My work with [John Tsang (NIAID)](https://www.niaid.nih.gov/research/john-tsang-phd) and [Ken Smith (Cambridge)](http://www.med.cam.ac.uk/smith/) focuses on defining multicellular immune system "setpoints" and perturbation phenotypes that are linked to vaccination responses and meaningful clinical outcomes in cancer and autoimmune disease.     
+
+I spend a lot of time developing formal analysis frameworks for integrating information across biological scales derived from high throughput immune system measurements. This often includes scaling up mixed effects models and machine learning methods to multimodal single cell data generated from human clinical cohorts. My goals are both to answer basic research questions about population variation in human immune system circuitry, while informing biomarker development and therapeutic strategies in different clinical contexts.
