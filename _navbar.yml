@@ -4,6 +4,8 @@ type: inverse
 left:
   - text: "about"
     href: ./index.html
+  - text: "CV"
+    href: ./MPM_cv.pdf
   - text: "software"
     href: ./dsb.ref.html
   - text: "posts"

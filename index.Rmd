@@ -4,10 +4,7 @@ output:
   html_document:
     toc: FALSE
 ---
+
 ##### <strong>  Matt Mulè, PhD || [google scholar](https://scholar.google.com/citations?user=eDbDGyIAAAAJ&hl=en) || [github](https://github.com/MattPM)  </strong> 
 
-I'm a MD-PhD student in the NIH Oxcam program.  
-
-My work with [John Tsang (NIAID)](https://www.niaid.nih.gov/research/john-tsang-phd) and [Ken Smith (Cambridge)](http://www.med.cam.ac.uk/smith/) focuses on defining multicellular immune system "setpoints" and perturbation phenotypes that are linked to vaccination responses and meaningful clinical outcomes in cancer and autoimmune disease.     
-
-I develop analysis frameworks for integrating information across biological scales derived from high throughput immune system measurements. This often includes scaling up mixed effects models and machine learning methods to multimodal single cell data generated from human clinical cohorts. Our goals are both to answer basic research questions about population variation in human immune system circuitry, while informing biomarker development and therapeutic strategies in different clinical contexts.
+I earned my PhD at University of Cambridge in 2022 as part of the NIH OxCam program. My work with [John Tsang (NIAID)](https://www.niaid.nih.gov/research/john-tsang-phd) at NIH and [Ken Smith (Cambridge)](http://www.med.cam.ac.uk/smith/) focuses on defining multicellular immune system "setpoints" and perturbation circiutry that are linked to vaccination responses and clinical outcomes in cancer and autoimmune disease. I develop analysis frameworks for integrating information across biological scales derived from high throughput immune system measurements. This includes scaling up mixed effects and machine learning models to multimodal single cell data generated from human clinical cohorts. Our goals are both to answer basic research questions about population variation in human immune system circuitry, while informing biomarker development and therapeutic strategies in different clinical contexts.  
