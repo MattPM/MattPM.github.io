@@ -2,15 +2,17 @@ name: "Mywebsite"
 title: " "
 type: inverse
 left:
-  - text: "about"
+  - text: "About"
     href: ./index.html
+  - text: "Research"
+    href: ./research.html
+  - text: "Software"
+    href: ./dsb.ref.html
+  - text: "Posts"
+    href: ./posts.html
   - text: "CV"
     href: ./MPM_cv_jan2023.pdf
-  - text: "software"
-    href: ./dsb.ref.html
-  - text: "posts"
-    href: ./posts.html
-  - text: "contact"
+  - text: "Contact"
     href: ./contact.me.html
 right:
   - icon: fa-github fa-lg

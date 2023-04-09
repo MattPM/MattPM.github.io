@@ -1,0 +1,10 @@
+---
+title: "a naturally adjuvanted human immune system setpoint"
+output:
+  html_document:
+    df_print: paged
+editor_options:
+  chunk_output_type: inline
+---
+
+Our latest work on human immune variation in influenza vaccination response is now out at MedRxiv. In it we define the concept of a "naturally adjuvanted" immune setpoint in humans. Check out my thread about **Multiscale integration of human and single-cell variations reveals unadjuvanted vaccine high responders are naturally adjuvanted** on twitter to learn more. https://twitter.com/MPMule/status/1639988299048660992
