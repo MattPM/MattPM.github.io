@@ -51,7 +51,8 @@ dsb is also available in [Python through *muon*](https://muon.readthedocs.io/en/
 The scglmmr R package is available on [**Github: latest scglmmr release**](https://github.com/MattPM/scglmmr)  
 to install in R `devtools::install_github(repo = "https://github.com/MattPM/scglmmr")`  
 This package is under active development. 
-
+<center>
 <img src='man/figures/scglmmr.overview.png' align="center" width="600" /></a>
+</center>
 
 

@@ -10,19 +10,18 @@ output:
 ##### <strong>  Matt Mulè, PhD || [google scholar](https://scholar.google.com/citations?user=eDbDGyIAAAAJ&hl=en) || [github](https://github.com/MattPM)  </strong> 
 
 <br>
+<br> 
+
+How can we identify the key molecules and cells comprising the multicellular circuitry of human immune systems that impact meaningful clinical outcomes?  
 <br>
 
+In my PhD at University of Cambridge and NIH with [John Tsang (NIH - NIAID)](https://medicine.yale.edu/profile/john-tsang/?tab=bio) and [Ken Smith (Cambridge)](http://www.med.cam.ac.uk/smith/) we characterized molecular variations in human populations, cell subsets, and single cells predictive of clinical outcomes. 
+<br> 
 
-My research focuses on defining how population variations in the multicellular circuitry of human immune systems impacts meaningful clinical outcomes. 
-<br>
-<br>
-In my PhD at University of Cambridge and NIH with [John Tsang (NIAID)](https://www.niaid.nih.gov/research/john-tsang-phd) and [Ken Smith (Cambridge)](http://www.med.cam.ac.uk/smith/) we used **Systems Immunology** to link molecular information from different layers of immune system organization. To advance these goals, I developed research software and frameworks for analyzing high throughput immune system data such as multiomic single cell methods. These approaches were used to: 
-<br>
-• Define links between human population, cell subset, and single cell variations, and how these were linked to clinical outcomes.
-<br>
-• Identify multicellular immune "setpoints" in the human population. 
-<br>
-• Define how immune setpoints lead to different clinical responses to vaccination and cancer immune therapy. 
-<br>
-<br>
-I'm currently focused on understanding molecular disease subtypes and how immune setpoints emerge and persist in different autoimmune and autoinflammatory diseases. My goals are to improve biomarker development, therapeutic strategies and clinical outcomes for patients with these diseases.
+I focused on developing the concept of homeostatic human immune system "setpoints" and how these were linked to in vivo perturbation phenotypes elicited by vaccination and cancer immunotherapy. 
+<br> 
+
+To do this I developed research software and computational approaches for denoising and statistical modeling high throughput immune system data, with a focus on new multimodal single cell profiling methods such as CITE-seq. 
+<br> 
+
+I'm currently focused on understanding molecular disease subtypes and how immune setpoints emerge and persist in different autoimmune and autoinflammatory diseases. My goals are to improve biomarker development and therapeutic strategies for patients with these diseases.
