@@ -9,10 +9,14 @@ body {
     color: #000000;
 }
 
-a:hover {
-    color: #ff5800; /* color when hovering */
-  }
-  
+.navbar {
+    background-color: #0052D8; /* dm */
+} 
+.nav-link:hover { 
+  color: #D4FFED !important; 
+}
+
+
  h1 {
   text-align: center;
 }
@@ -22,5 +26,5 @@ button-container {
 }
 
 .button-container button {
-  margin-right: 20px; /* spacing between buttons */
+  margin-right: 20px; /* spacing bet. buttons */
 }

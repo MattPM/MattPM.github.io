@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Research"
 output: 
   html_document:
     toc: FALSE
@@ -15,8 +15,6 @@ knitr::opts_chunk$set(
   root.dir = here()
 )
 ```
-
-### **Research**
 
 Select manuscripts are highlighted below.  
 Links to all publications at [google scholar](https://scholar.google.com/citations?user=eDbDGyIAAAAJ&hl=en) 
@@ -48,6 +46,7 @@ Multimodal single cell profiling methods can capture immune cell variations unfo
 <img align="right"  height = "500" style="margin-left: 15px;" src="man/figures/dsb_fig1.png" />
 
 #### [**Normalizing and denoising protein expression data from droplet-based single cell profiling**](https://www.nature.com/articles/s41467-022-29356-8)  
+**Nature Communications (2022)**
 Multimodal single-cell profiling methods that measure protein expression with oligo-conjugated antibodies hold promise for comprehensive dissection of cellular heterogeneity, yet the resulting protein counts have substantial technical noise that can mask biological variations. Here we integrate experiments and computational analyses to reveal two major noise sources and develop a method called “dsb” (denoised and scaled by background) to normalize and denoise droplet-based protein expression data. We discover that protein-specific noise originates from unbound antibodies encapsulated during droplet generation; this noise can thus be accurately estimated and corrected by utilizing protein levels in empty droplets. We also find that isotype control antibodies and the background protein population average in each cell exhibit significant correlations across single cells, we thus use their shared variance to correct for cell-to-cell technical noise in each cell. We validate these findings by analyzing the performance of dsb in eight independent datasets spanning multiple technologies, including CITE-seq, ASAP-seq, and TEA-seq. Compared to existing normalization methods, our approach improves downstream analyses by better unmasking biologically meaningful cell populations. Our method is available as an open-source R package that interfaces easily with existing single cell software platforms such as Seurat, Bioconductor, and Scanpy and can be accessed at “dsb [https://cran.r-project.org/package=dsb]”.
 
 <div class="button-container">
@@ -66,9 +65,10 @@ Multimodal single-cell profiling methods that measure protein expression with ol
 </div>
 
 <br>
+<img align="right" height = "600" style="margin-left: 15px;" src="man/figures/irae_diagram.png" />  
 
-<img align="right" height = "600" style="margin-left: 15px;" src="man/figures/irae_diagram.png" />
 #### [**Contrasting autoimmune and treatment effects reveals baseline set points of immune toxicity following checkpoint inhibitor treatment**](https://www.biorxiv.org/content/10.1101/2022.06.05.494592v1) 
+**BioRxiv (2022)**
 Immune checkpoint inhibitors (ICIs) have changed the cancer treatment landscape, but severe immune-related adverse events (irAEs) can be life-threatening or fatal and may prohibit patients from receiving further ICI treatment. While the clinical features of irAEs are well documented, molecular signatures, predictive biomarkers, and mechanisms of impending irAEs are largely unknown. In addition, the markers and mechanisms of ICI-induced antitumor immunity often overlap with those for irAEs. It is thus critical to uncover signatures associated specifically with irAEs but not with antitumor immunity. To identify circulating immune cell states associated with irAEs, we applied multimodal single cell analysis (CITE-seq) to simultaneously measure the transcriptome and surface proteins from peripheral blood mononuclear cells (PBMCs) collected before and after treatment with an anti-PD-L1 antibody (avelumab) in patients with thymic cancers (thymic epithelial tumors). All patients had an antitumor response, yet a subset developed muscle autoimmunity (myositis), a potentially life-threatening irAE. Mixed-effect modeling disentangled cell type-specific transcriptional states associated with ICI treatment responses from those of irAEs to identify temporally stable pre-treatment immune set points associated with irAEs only. These pre-treatment baseline signatures of irAE developed post-avelumab irAEs reflect correlated transcriptional states of multiple innate and adaptive immune cell populations, including elevation of metabolic genes downstream of mTOR signaling in T-cell subsets. Together these findings suggest putative pre-treatment biomarkers for irAEs following ICI therapy in thymic cancer patients and raise the prospect of therapeutically dampening autoimmunity while sparing antitumor activity in cancer patients treated with ICIs. Together, pre-treatment biomarkers and interventional therapeutics could help mitigate treatment discontinuation and improve clinical outcomes.  
 
 <div class="button-container">

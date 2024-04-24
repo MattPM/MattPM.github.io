@@ -1,11 +1,10 @@
 ---
-title: "&"
+title: "...&"
 output: 
   html_document:
     toc: FALSE
 ---
 
 [A naturally adjuvanted human immune setpoint (new preprint on MedRxiv)](posts/new_preprint_fsc.html) 
-<br>
 <br>
 [CD4 protein vs CD4 mRNA in CITE-seq data](posts/cd4_2.html)

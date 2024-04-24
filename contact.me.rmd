@@ -5,6 +5,6 @@ output:
     toc: FALSE
 ---
 
-my (permanent) email: mattmule AT gmail.com  
+my (permanent) email: mpm63 AT cantab.ac.uk  
 [on twitter](https://twitter.com/MPMule) 
 
