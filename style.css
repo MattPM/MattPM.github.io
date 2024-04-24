@@ -16,3 +16,11 @@ a:hover {
  h1 {
   text-align: center;
 }
+
+button-container {
+  display: flex; /* Use flexbox - row */
+}
+
+.button-container button {
+  margin-right: 20px; /* spacing between buttons */
+}

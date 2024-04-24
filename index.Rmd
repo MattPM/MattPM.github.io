@@ -10,15 +10,13 @@ output:
 ##### <strong>  Matt Mulè, PhD || [google scholar](https://scholar.google.com/citations?user=eDbDGyIAAAAJ&hl=en) || [github](https://github.com/MattPM)  </strong> 
 
 <br>
-<br> 
 
-How can we identify the key molecules and cells comprising the multicellular circuitry of human immune systems that impact meaningful clinical outcomes?  
+How can we identify key molecules and cells comprising the multicellular circuitry of human immune systems that impact meaningful clinical outcomes?  
 <br>
-
-In my PhD at University of Cambridge and NIH with [John Tsang (NIH - NIAID)](https://medicine.yale.edu/profile/john-tsang/?tab=bio) and [Ken Smith (Cambridge)](http://www.med.cam.ac.uk/smith/) we characterized molecular variations in human populations, cell subsets, and single cells predictive of clinical outcomes. 
+In my PhD at University of Cambridge and NIH with [John Tsang (NIH - NIAID)](https://medicine.yale.edu/profile/john-tsang/?tab=bio) and [Ken Smith (Cambridge)](https://www.wehi.edu.au/researcher/ken-smith/) we characterized molecular variations in human populations, cell subsets, and single cells predictive of clinical outcomes.
 <br> 
 
-I focused on developing the concept of homeostatic human immune system "setpoints" and how these were linked to in vivo perturbation phenotypes elicited by vaccination and cancer immunotherapy. 
+I focused on developing the concept of homeostatic human immune system "setpoints" and how these were linked to different clinical outcomes. In addition we defined how these setpoints were related to in vivo perturbation phenotypes elicited by vaccination and cancer immunotherapy. 
 <br> 
 
 To do this I developed research software and computational approaches for denoising and statistical modeling high throughput immune system data, with a focus on new multimodal single cell profiling methods such as CITE-seq. 

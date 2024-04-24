@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 
 I created and maintain these software repositories 
 
-## [dsb](https://CRAN.R-project.org/package=dsb)  
+### [**dsb**](https://CRAN.R-project.org/package=dsb)  
 
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/dsb)](https://CRAN.R-project.org/package=dsb)
@@ -29,30 +29,31 @@ I created and maintain these software repositories
 The dsb R package is available on [**CRAN: latest dsb release**](https://CRAN.R-project.org/package=dsb)  
 to install in R: `install.packages('dsb')`  
 
+This method is described in [**Mulè, Martins, and Tsang, Nature Communications (2022)**](https://www.nature.com/articles/s41467-022-29356-8)  
+
 #### Vignettes:  
 1. [**Using dsb in an end to end CITE-seq workflow including WNN clustering**](https://cran.rstudio.com/web/packages/dsb/vignettes/end_to_end_workflow.html)  
 2. [**How the dsb method works**](https://cran.rstudio.com/web/packages/dsb/vignettes/understanding_dsb.html)  
 3. [**Normalizing ADTs if empty drops are not available**](https://cran.rstudio.com/web/packages/dsb/vignettes/no_empty_drops.html)  
 4. [**FAQ etc.**](https://cran.r-project.org/web/packages/dsb/vignettes/additional_topics.html)  
 
-This method is described in [**Mulè, Martins, and Tsang, Nature Communications (2022)**](https://www.nature.com/articles/s41467-022-29356-8)
-
 dsb is also available in [Python through *muon*](https://muon.readthedocs.io/en/latest/omics/citeseq.html)  
 
   
 <br> 
-<br> 
 
-## [scglmmr](https://github.com/MattPM/scglmmr) 
+
+### [**scglmmr**](https://github.com/MattPM/scglmmr) 
 [![DOI](https://zenodo.org/badge/330215343.svg)](https://zenodo.org/badge/latestdoi/330215343)  
 
-#### <strong> scglmmr: An R package for implementing mixed effects models on single cell data with complex experiment designs. </strong>  
+#### <strong> scglmmr: sample-level single cell generalized linear mixed models and phenotype networks in R </strong>  
+
+scglmmr is an R package for implementing mixed effects models on single cell data with complex experiment designs. 
 
 The scglmmr R package is available on [**Github: latest scglmmr release**](https://github.com/MattPM/scglmmr)  
 to install in R `devtools::install_github(repo = "https://github.com/MattPM/scglmmr")`  
-This package is under active development. 
 <center>
-<img src='man/figures/scglmmr.overview.png' align="center" width="600" /></a>
+<img src='man/figures/scglmmr_workflow_pb.png' align="center" /></a>
 </center>
 
 

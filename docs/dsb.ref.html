@@ -16,7 +16,7 @@
 <script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -237,7 +237,7 @@ $(document).ready(function () {
   <a href="./index.html">About</a>
 </li>
 <li>
-  <a href="./research.html">Research</a>
+  <a href="./research.html">Publications</a>
 </li>
 <li>
   <a href="./dsb.ref.html">Software</a>
@@ -274,8 +274,9 @@ $(document).ready(function () {
 
 
 <p>I created and maintain these software repositories</p>
-<div id="dsb" class="section level2">
-<h2><a href="https://CRAN.R-project.org/package=dsb">dsb</a></h2>
+<div id="dsb" class="section level3">
+<h3><a
+href="https://CRAN.R-project.org/package=dsb"><strong>dsb</strong></a></h3>
 <!-- badges: start -->
 <p><a href="https://CRAN.R-project.org/package=dsb"><img
 src="https://www.r-pkg.org/badges/version/dsb" alt="CRAN status" /></a>
@@ -291,6 +292,9 @@ from CITE-seq, ASAP-seq, TEA-seq and related assays. </strong></h4>
 href="https://CRAN.R-project.org/package=dsb"><strong>CRAN: latest dsb
 release</strong></a><br />
 to install in R: <code>install.packages('dsb')</code></p>
+<p>This method is described in <a
+href="https://www.nature.com/articles/s41467-022-29356-8"><strong>Mulè,
+Martins, and Tsang, Nature Communications (2022)</strong></a></p>
 </div>
 <div id="vignettes" class="section level4">
 <h4>Vignettes:</h4>
@@ -312,32 +316,32 @@ ADTs if empty drops are not available</strong></a><br />
 href="https://cran.r-project.org/web/packages/dsb/vignettes/additional_topics.html"><strong>FAQ
 etc.</strong></a></li>
 </ol>
-<p>This method is described in <a
-href="https://www.nature.com/articles/s41467-022-29356-8"><strong>Mulè,
-Martins, and Tsang, Nature Communications (2022)</strong></a></p>
 <p>dsb is also available in <a
 href="https://muon.readthedocs.io/en/latest/omics/citeseq.html">Python
 through <em>muon</em></a></p>
-<p><br> <br></p>
+<p><br></p>
 </div>
 </div>
-<div id="scglmmr" class="section level2">
-<h2><a href="https://github.com/MattPM/scglmmr">scglmmr</a></h2>
+<div id="scglmmr" class="section level3">
+<h3><a
+href="https://github.com/MattPM/scglmmr"><strong>scglmmr</strong></a></h3>
 <p><a href="https://zenodo.org/badge/latestdoi/330215343"><img
 src="https://zenodo.org/badge/330215343.svg" alt="DOI" /></a></p>
 <div
-id="scglmmr-an-r-package-for-implementing-mixed-effects-models-on-single-cell-data-with-complex-experiment-designs."
+id="scglmmr-sample-level-single-cell-generalized-linear-mixed-models-and-phenotype-networks-in-r"
 class="section level4">
-<h4><strong> scglmmr: An R package for implementing mixed effects models
-on single cell data with complex experiment designs. </strong></h4>
+<h4><strong> scglmmr: sample-level single cell generalized linear mixed
+models and phenotype networks in R </strong></h4>
+<p>scglmmr is an R package for implementing mixed effects models on
+single cell data with complex experiment designs.</p>
 The scglmmr R package is available on <a
 href="https://github.com/MattPM/scglmmr"><strong>Github: latest scglmmr
 release</strong></a><br />
 to install in R
 <code>devtools::install_github(repo = "https://github.com/MattPM/scglmmr")</code><br />
-This package is under active development.
+
 <center>
-<img src='man/figures/scglmmr.overview.png' align="center" width="600" /></a>
+<img src='man/figures/scglmmr_workflow_pb.png' align="center" /></a>
 </center>
 </div>
 </div>
