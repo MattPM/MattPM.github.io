@@ -8,13 +8,13 @@ output:
 <center>Matt Mulè PhD</center>
 <br>
 
-How can we improve clinical outcomes for patients by measuring and understanding their immune systems? I focused on developing the concept that multicellular networks form homeostatic human immune system "setpoints" predictive of vaccination, infection and cancer immunotherapy outcomes in my PhD at Cambridge and NIH with [John Tsang (NIH - NIAID)](https://medicine.yale.edu/profile/john-tsang/?tab=bio) and [Ken Smith (Cambridge)](https://www.wehi.edu.au/researcher/ken-smith/). On the methodological side, we developed computational approaches for denoising and statistical modeling new multimodal single cell profiling methods such as CITE-seq.  
+How can we improve clinical outcomes for patients by measuring and understanding their immune systems? I focused on developing the concept of homeostatic human immune system "setpoints" formed by information shared between immune cell subsets forming molecular networks that predict vaccination, infection and cancer immunotherapy outcomes in my PhD at Cambridge and NIH with [John Tsang (NIH - NIAID)](https://medicine.yale.edu/profile/john-tsang/?tab=bio) and [Ken Smith (Cambridge)](https://www.wehi.edu.au/researcher/ken-smith/). On the methodological side, we developed computational approaches for denoising and statistical modeling new multimodal single cell profiling methods such as CITE-seq.  
 
 
 <u>I'm currently focused on advancing the field of personalized clinical immunology on two major fronts: </u> 1. Investigating the basic science of how molecular human immune subtypes emerge and control response to cancer immunotherapy, vaccination and treatment of immune mediated inflammatory diseases. 2. Development of personalized therapeutic strategies for patients informed by low-cost global immune system profiling in the clinical immunology laboratory. 
 
 <br>
-<center>Selected works</center>
+<center>Selected work</center>
 <br>
 
 #### [**Integrating population and single-cell variations in vaccine responses identifies a naturally adjuvanted human immune setpoint**](/man/pdf/MPM_immunity_2024.pdf)  

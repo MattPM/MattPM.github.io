@@ -2,7 +2,7 @@ name: "MattPM"
 output_dir: 'docs'
 output:
   html_document:
-    theme: yeti
+    theme: default
     bootstrap: 5
     nav_style: dark
     highlight: 

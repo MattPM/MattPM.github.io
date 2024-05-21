@@ -16,7 +16,6 @@ knitr::opts_chunk$set(
 )
 ```
 
-Select manuscripts are highlighted below.  
 Links to all publications at [google scholar](https://scholar.google.com/citations?user=eDbDGyIAAAAJ&hl=en) 
 
 <br>
