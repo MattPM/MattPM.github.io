@@ -16,7 +16,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-I created and maintain these software repositories 
+I created and maintain these software repositories
 
 ### [**dsb**](https://CRAN.R-project.org/package=dsb)  
 
@@ -44,7 +44,6 @@ dsb is also available in [Python through *muon*](https://muon.readthedocs.io/en/
 
 
 ### [**scglmmr**](https://github.com/MattPM/scglmmr) 
-[![DOI](https://zenodo.org/badge/330215343.svg)](https://zenodo.org/badge/latestdoi/330215343)  
 
 #### <strong> scglmmr: sample-level single cell generalized linear mixed models and phenotype networks in R </strong>  
 

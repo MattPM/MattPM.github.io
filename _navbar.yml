@@ -2,7 +2,7 @@ name: "Mywebsite"
 title: " "
 type: inverse
 left:
-  - text: "about"
+  - text: "research"
     href: ./index.html
   - text: "publications"
     href: ./research.html
