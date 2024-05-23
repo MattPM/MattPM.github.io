@@ -32,7 +32,7 @@ Also see additional [Software](https://mattpm.net/dsb.ref.html)
 <br>
 *Identifying molecular immune cell circuits that predict responses to vaccination, cancer immunotherapy, and infection*
 <hr>
-**Integrating population and single-cell variations in vaccine responses identifies a naturally adjuvanted human immune setpoint.**<br> Mulè MP, Martins AJ, Cheung F, Farmer R, Sellers BA, Quiel JA, Jain A, Kotliarov Y, Bansal N, Chen J, Schwartzberg PL, Tsang JS.  __Immunity__ (2024) PMID: 38697118 <a href="/man/pdf/immunity_paper_2024.pdf"> <button>PDF</button> </a> <a href="/man/pdf/immunity_2024_editorial.pdf"> <button>editorial coverage</button> </a>
+**Integrating population and single-cell variations in vaccine responses identifies a naturally adjuvanted human immune setpoint.**<br> Mulè MP, Martins AJ, Cheung F, Farmer R, Sellers BA, Quiel JA, Jain A, Kotliarov Y, Bansal N, Chen J, Schwartzberg PL, Tsang JS.  __Immunity__ (2024) PMID: 38697118 <a href="/man/pdf/natural_adjuvant_immunity_2024.pdf"> <button>PDF</button> </a> <a href="/man/pdf/immunity_2024_editorial.pdf"> <button>editorial coverage</button> </a>
 <br>
 <br>
 **Contrasting autoimmune and treatment effects reveals baseline set points of immune toxicity following checkpoint inhibitor treatment** <br> 
