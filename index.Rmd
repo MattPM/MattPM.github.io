@@ -26,7 +26,7 @@ How can we improve clinical outcomes for patients by understanding and measuring
 **Immunity (2024)**
 Multimodal single-cell profiling methods can capture immune cell variations unfolding over time at the molecular, cellular, and population levels. Transforming these data into biological insights remains challenging. Here, we introduce a framework to integrate variations at the human population and single-cell levels in vaccination responses. Comparing responses following AS03-adjuvanted versus unadjuvanted influenza vaccines with CITE-seq revealed AS03-specific early (day 1) response phenotypes, including a B cell signature of elevated germinal center competition. A correlated network of cell-type-specific transcriptional states defined the baseline immune status associated with high antibody responders to the unadjuvanted vaccine. Certain innate subsets in the network appeared ‘‘naturally adjuvanted,’’ with transcriptional states resembling those induced uniquely by AS03-adjuvanted vaccination. Consistently, CD14+ monocytes from high responders at baseline had elevated phospho-signaling responses to lipopolysaccharide stimulation. Our findings link baseline immune setpoints to early vaccine responses, with positive implications for adjuvant development and immune response engineering.
 <div class="button-container">
-  <a href="/man/pdf/MPM_immunity_2024.pdf">
+  <a href="/man/pdf/natural_adjuvant_immunity_2024.pdf">
     <button>PDF</button>
   </a>
   <a href="https://niaid.github.io/fsc/">
