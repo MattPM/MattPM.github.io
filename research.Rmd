@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Publications"
 output: 
   html_document:
     toc: FALSE
@@ -16,68 +16,86 @@ knitr::opts_chunk$set(
 )
 ```
 
-Links to all publications at [google scholar](https://scholar.google.com/citations?user=eDbDGyIAAAAJ&hl=en) 
+**[google scholar](https://scholar.google.com/citations?user=eDbDGyIAAAAJ&hl=en)**
+
+--- 
 
 <br>
-<img align="right" width="500" height = "500" style="margin-left: 15px;" src="man/figures/graphical.abstract.fsc.png" />
-
-#### [**Multiscale integration of human and single-cell variations reveals unadjuvanted vaccine high responders are naturally adjuvanted**](https://www.medrxiv.org/content/10.1101/2023.03.20.23287474v1)  
-**Immunity (2024)**
-Multimodal single cell profiling methods can capture immune cell variations unfolding over time at the molecular, cellular, and population levels. Transforming these data into biological insights remains challenging. Here we introduce a framework to integrate variations at the human population and single cell levels in vaccination responses. Comparing responses following AS03-adjuvanted versus unadjuvanted influenza vaccines with CITE-seq revealed AS03-specific early (day 1) response phenotypes including a B cell signature of elevated germinal center competition. A correlated network of cell-type specific transcriptional states defined the baseline immune status associated with high antibody-responders to the unadjuvanted vaccine. Certain innate subsets in the network appeared "naturally adjuvanted" with transcriptional states resembling those induced uniquely by AS03-adjuvanted vaccination. Consistently, CD14* monocytes from high responders at baseline had elevated phospho-signaling responses to lipopolysaccharide stimulation. Our findings link baseline immune setpoints to early vaccine responses with positive implications for adjuvant development and immune response engineering.
-<div class="button-container">
-  <a href="https://www.medrxiv.org/content/10.1101/2023.03.20.23287474v1">
-    <button>PDF</button>
-  </a>
-  <a href="https://niaid.github.io/fsc/">
-    <button>[<img src="man/figures/github-mark.png" width="20">](https://niaid.github.io/fsc/) code </button>
-  </a>
-  <a href="https://authors.elsevier.com/c/1j0dm3qNrUxtjS">
-    <button>DOI</button>
-  </a>
-</div>
-
-
-
-
-
+*Methodological development: computational approaches for analysis of multiomic single cell protein expression data*
+<hr>
+**Normalizing and denoising protein expression data from droplet-based single cell profiling** 
+Mulè MP#, Martins AJ#, Tsang JS <u> Nature Communications </u> (2022) <a href="/man/pdf/dsb_paper_2022.pdf"> <button>PDF</button> </a> </u> <a href="https://github.com/niaid/dsb"> <button>R package on CRAN</button> </a>
 <br>
 <br>
-<img align="right"  height = "500" style="margin-left: 15px;" src="man/figures/dsb_fig1.png" />
-
-#### [**Normalizing and denoising protein expression data from droplet-based single cell profiling**](https://www.nature.com/articles/s41467-022-29356-8)  
-**Nature Communications (2022)**
-Multimodal single-cell profiling methods that measure protein expression with oligo-conjugated antibodies hold promise for comprehensive dissection of cellular heterogeneity, yet the resulting protein counts have substantial technical noise that can mask biological variations. Here we integrate experiments and computational analyses to reveal two major noise sources and develop a method called “dsb” (denoised and scaled by background) to normalize and denoise droplet-based protein expression data. We discover that protein-specific noise originates from unbound antibodies encapsulated during droplet generation; this noise can thus be accurately estimated and corrected by utilizing protein levels in empty droplets. We also find that isotype control antibodies and the background protein population average in each cell exhibit significant correlations across single cells, we thus use their shared variance to correct for cell-to-cell technical noise in each cell. We validate these findings by analyzing the performance of dsb in eight independent datasets spanning multiple technologies, including CITE-seq, ASAP-seq, and TEA-seq. Compared to existing normalization methods, our approach improves downstream analyses by better unmasking biologically meaningful cell populations. Our method is available as an open-source R package that interfaces easily with existing single cell software platforms such as Seurat, Bioconductor, and Scanpy and can be accessed at “dsb [https://cran.r-project.org/package=dsb]”.
-
-<div class="button-container">
-  <a href="https://www.nature.com/articles/s41467-022-29356-8">
-    <button>PDF</button>
-  </a>
-  <a href="https://github.com/niaid/dsb_manuscript">
-    <button>[<img src="man/figures/github-mark.png" width="20">](https://github.com/niaid/dsb_manuscript) code </button>
-  </a>
-  <a href="https://www.nature.com/articles/s41467-022-29356-8">
-    <button>DOI</button>
-  </a>
-  <a href="https://CRAN.R-project.org/package=dsb">
-    <button>R Package</button>
-  </a>
-</div>
-
+Also see additional [Software](https://mattpm.net/dsb.ref.html)
 <br>
-<img align="right" height = "600" style="margin-left: 15px;" src="man/figures/irae_diagram.png" />  
-
-#### [**Contrasting autoimmune and treatment effects reveals baseline set points of immune toxicity following checkpoint inhibitor treatment**](https://www.biorxiv.org/content/10.1101/2022.06.05.494592v1) 
-**BioRxiv (2022)**
-Immune checkpoint inhibitors (ICIs) have changed the cancer treatment landscape, but severe immune-related adverse events (irAEs) can be life-threatening or fatal and may prohibit patients from receiving further ICI treatment. While the clinical features of irAEs are well documented, molecular signatures, predictive biomarkers, and mechanisms of impending irAEs are largely unknown. In addition, the markers and mechanisms of ICI-induced antitumor immunity often overlap with those for irAEs. It is thus critical to uncover signatures associated specifically with irAEs but not with antitumor immunity. To identify circulating immune cell states associated with irAEs, we applied multimodal single cell analysis (CITE-seq) to simultaneously measure the transcriptome and surface proteins from peripheral blood mononuclear cells (PBMCs) collected before and after treatment with an anti-PD-L1 antibody (avelumab) in patients with thymic cancers (thymic epithelial tumors). All patients had an antitumor response, yet a subset developed muscle autoimmunity (myositis), a potentially life-threatening irAE. Mixed-effect modeling disentangled cell type-specific transcriptional states associated with ICI treatment responses from those of irAEs to identify temporally stable pre-treatment immune set points associated with irAEs only. These pre-treatment baseline signatures of irAE developed post-avelumab irAEs reflect correlated transcriptional states of multiple innate and adaptive immune cell populations, including elevation of metabolic genes downstream of mTOR signaling in T-cell subsets. Together these findings suggest putative pre-treatment biomarkers for irAEs following ICI therapy in thymic cancer patients and raise the prospect of therapeutically dampening autoimmunity while sparing antitumor activity in cancer patients treated with ICIs. Together, pre-treatment biomarkers and interventional therapeutics could help mitigate treatment discontinuation and improve clinical outcomes.  
-
-<div class="button-container">
-  <a href="https://www.biorxiv.org/content/10.1101/2022.06.05.494592v1">
-    <button>PDF</button>
-  </a>
-  <a href="https://github.com/niaid/irae_manuscript">
-    <button>[<img src="man/figures/github-mark.png" width="20">](https://github.com/niaid/irae_manuscript) code </button>
-  </a>
-  <a href="https://www.biorxiv.org/content/10.1101/2022.06.05.494592v1">
-    <button>DOI</button>
-  </a>
-</div>
+<br>
+*Identifying molecular immune cell circuits that predict responses to vaccination, cancer immunotherapy, and infection*
+<hr>
+**Integrating population and single-cell variations in vaccine responses identifies a naturally adjuvanted human immune setpoint.**<br> Mulè MP, Martins AJ, Cheung F, Farmer R, Sellers BA, Quiel JA, Jain A, Kotliarov Y, Bansal N, Chen J, Schwartzberg PL, Tsang JS.  __Immunity__ (2024) PMID: 38697118 <a href="/man/pdf/immunity_paper_2024.pdf"> <button>PDF</button> </a> <a href="/man/pdf/immunity_2024_editorial.pdf"> <button>editorial coverage</button> </a>
+<br>
+<br>
+**Contrasting autoimmune and treatment effects reveals baseline set points of immune toxicity following checkpoint inhibitor treatment** <br> 
+Mulè MP#, Zhao C#, Martins AJ, Pinal-Fernandez I, Donahue RN, Chen J, Schlom J, Gulley JL, Mammen A, Tsang JS, Rajan A 
+Contrasting autoimmune and treatment effects reveals baseline set points of immune toxicity following checkpoint inhibitor treatment bioRxiv (2022) [PDF](https://doi.org/10.1101/2022.06.05.494592)
+<br>
+<br>
+**Iron dysregulation and inflammatory stress erythropoiesis associates with long-term outcome of COVID-19** <br>
+Hanson AL, Mulè MP, Ruffieux H, Mescia F, Bergamaschi L, Pelly VS, Turner L, Kotagiri P; CITIID–NIHR, COVID BioResource Collaboration; Göttgens B, Hess C, Gleadall N, Bradley JR, Nathan JA, Lyons PA, Drakesmith H, Smith KGC. <u> Nature Immunology </u> (2024) PMID: 38429458 <a href="/man/pdf/iron_covid_2024.pdf"> <button>PDF</button> </a> <a href="/man/pdf/iron_covid_editorial.pdf"> <button>editorial coverage</button> </a>
+<br>
+<br>
+**Broad immune activation underlies shared set point signatures for vaccine responsiveness in healthy individuals and disease activity in patients with lupus.**<br>
+Kotliarov Y#, Sparks R#, (#equal contribution) Martins AJ+, Mulè MP+, Lu Y+, (+equal contribution), Goswami M, Kardava L, Banchereau R, Pascual V, Biancotto A, Chen J, Schwartzberg PL, Bansal N, Liu CC, Cheung F, Moir S, Tsang JS. <u>Nature Medicine</u> (2020) PMID: 32094927 <a href="/man/pdf/shared_setpoint_natmed_2020.pdf"> <button>PDF</button> <a href="/man/pdf/shared_setpoint_editorial.pdf"> <button>editorial coverage</button> </a>  </a> 
+<br>
+<br>
+**Time-resolved systems immunology reveals a late juncture linked to fatal COVID-19** <br>
+Liu C, Martins AJ, Lau WW, Rachmaninoff N, Chen J, Imberti L, Mostaghimi D, Fink DL, Burbelo PD, Dobbs K, Delmonte OM, Bansal N, Failla L, Sottini A, Quiros-Roldan E, Han KL, Sellers BA, Cheung F, Sparks R, Chun TW, Moir S, Lionakis MS; NIAID COVID Consortium; COVID Clinicians; Rossi C, Su HC, Kuhns DB, Cohen JI, Notarangelo LD, Tsang JS.  <u>Cell</u> (2021) PMID: 33713619  [pdf](https://www.cell.com/action/showPdf?pii=S0092-8674%2821%2900168-9)
+<br>
+<br>
+*Systems immunology studies of vaccination response* 
+<hr>
+**Transcriptional atlas of the human immune response to 13 vaccines reveals a common predictor of vaccine-induced antibody responses.** <br>Hagan T, Gerritsen B, Tomalin LE, Fourati S, Mulè MP, Chawla DG, Rychkov D, Henrich E, Miller HER, Diray-Arce J, Dunn P, Lee A; Human Immunology Project Consortium (HIPC); Levy O, Gottardo R, Sarwal MM, Tsang JS, Suárez-Fariñas M, Sékaly RP, Kleinstein SH, Pulendran B. Transcriptional atlas of the human immune response to 13 vaccines reveals a common predictor of vaccine-induced antibody responses. <u>Nature Immunology</u> (2022) PMID: 36316475 [PDF](https://pubmed.ncbi.nlm.nih.gov/36316475/)
+<br>
+<br>
+**Pan-vaccine analysis reveals innate immune endotypes predictive of antibody responses to vaccination.**<br>
+Fourati S, Tomalin LE, Mulè MP, Chawla DG, Gerritsen B, Rychkov D, Henrich E, Miller HER, Hagan T, Diray-Arce J, Dunn P; Human Immunology Project Consortium (HIPC); Levy O, Gottardo R, Sarwal MM, Tsang JS, Suárez-Fariñas M, Pulendran B, Kleinstein SH, Sékaly RP. Nature Immmunology PMID: 36316476 (2022) [pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9747610/)
+<br>
+<br>
+**The Immune Signatures data resource, a compendium of systems vaccinology datasets.**  
+Diray-Arce J, Miller HER, Henrich E, Gerritsen B, Mulè MP, Fourati S, Gygi J, Hagan T, Tomalin L, Rychkov D, Kazmin D, Chawla DG, Meng H, Dunn P, Campbell J; Human Immunology Project Consortium (HIPC); Sarwal M, Tsang JS, Levy O, Pulendran B, Sekaly R, Floratos A, Gottardo R, Kleinstein SH, Suárez-Fariñas M.  Scientific Data (2022) PMID: 36266291 [PDF](https://www.nature.com/articles/s41597-022-01714-7)
+<br>
+<br>
+**Intravenous nanoparticle vaccination generates stem-like TCF1+ neoantigen-specific CD8+ T cells** <br>
+Baharom F, Ramirez-Valdez RA, Tobin KKS, Yamane H, Dutertre CA, Khalilnezhad A, Reynoso GV, Coble VL, Lynn GM, Mulè MP, Martins AJ, Finnigan JP, Zhang XM, Hamerman JA, Bhardwaj N, Tsang JS, Hickman HD, Ginhoux F, Ishizuka AS, Seder RA. <u>Nature Immunology</u> (2021) PMID: 33139915 <a href="/man/pdf/neoantigen_vaccine_2021.pdf"> <button>PDF</button> </a>
+<br>
+<br>
+*Clinical pathology and molecular diagnostics in immune mediated disease and hematologic malignancies*
+<hr>
+**Multigene Measurable Residual Disease Assessment Improves Acute Myeloid Leukemia Relapse Risk Stratification in Autologous Hematopoietic Cell Transplantation** <br>
+Mulé MP, Mannis GN, Wood BL, Radich JP, Hwang J, Ramos NR, Andreadis C, Damon L, Logan AC, Martin TG, Hourigan CS.  Biol Blood Marrow Transplant. (2016) PMID: 27544285 <a href="/man/pdf/automrd_BBMT_2016.pdf"> <button>PDF</button> </a>
+<br>
+<br>
+**Advancing the Minimal Residual Disease Concept in Acute Myeloid Leukemia** <br>
+Hokland P, Ommen HB, Mulé MP, Hourigan CS.  Seminars in Hematology (2015) PMID: 26111465 <a href="/man/pdf/advancing_mrd_seminars_hematology_2015.pdf"> <button>PDF</button> </a> 
+<br>
+<br>
+**Rapid progression to AML in a patient with germline GATA2 mutation and acquired NRAS Q61K mutation.** <br>
+McReynolds LJ, Zhang Y, Yang Y, Tang J, Mulé M, Hsu AP, Townsley DM, West RR, Zhu J, Hickstein DD, Holland SM, Calvo KR, Hourigan CS. Leukemia Research Reports (2019) PMID: 31245276 <a href="/man/pdf/GATA2_AML_2019.pdf"> <button>PDF</button> </a> 
+<br>
+<br>
+**MDS-associated mutations in germline GATA2 mutated patients with hematologic manifestations**<br>
+McReynolds LJ, Yang Y, Yuen Wong H, Tang J, Zhang Y, Mulé MP, Daub J, Palmer C, Foruraghi L, Liu Q, Zhu J, Wang W, West RR, Yohe ME, Hsu AP, Hickstein DD, Townsley DM, Holland SM, Calvo KR, Hourigan CS. Leukemia Research (2019) PMID: 30578959 <a href="/man/pdf/GATA2_cohort_2019.pdf"> <button>PDF</button> </a>
+**Molecular Measurable Residual Disease Testing of Blood During AML Cytotoxic Therapy for Early Prediction of Clinical Response** <br>
+Wong HY, Sung AD, Lindblad KE, Sheela S, Roloff GW, Rizzieri D, Goswami M, Mulé MP, Ramos NR, Tang J, Thompson J, DeStefano CB, Romero K, Dillon LW, Kim DY, Lai C, Hourigan CS. Frontiers in Oncology (2019) PMID: 30697529 <a href="/man/pdf/early_mrd_frontiers_2019.pdf"> <button>PDF</button> </a> 
+<br>
+<br>
+*Bacterial transcriptional dynamics in infection*
+<hr>
+**The core promoter of the capsule operon of Streptococcus pneumoniae is necessary and sufficient for colonization and invasive disease.**<br>
+Shainheit MG, Mulé M, Camilli A. Infection and Immunity (2014) PMID: 24478084 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3911406/pdf/zii694.pdf"> <button>PDF</button> </a>
+<br>
+<br>
+**Iron- dependent gene expression in Actinomyces oris** <br>
+Mulè MP, Giacalone D, Lawlor K, Golden A, Cook C, Lott T, Aksten E, O’Toole GA, Bergeron, LJ. Journal of Oral Microbiolog (2015 )PMID: 26685151 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684579/pdf/JOM-7-29800.pdf"> <button>PDF</button> </a>
+<br>
+<br>

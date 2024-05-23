@@ -5,16 +5,21 @@ output:
     toc: FALSE
 ---
 <br>
-<center>Matt Mulè PhD</center>
+<center>**Matt Mulè PhD**</center>
+<br>
 <br>
 
-How can we improve clinical outcomes for patients by measuring and understanding their immune systems? I focused on developing the concept of homeostatic human immune system "setpoints" formed by information shared between immune cell subsets forming molecular networks that predict vaccination, infection and cancer immunotherapy outcomes in my PhD at Cambridge and NIH with [John Tsang (NIH - NIAID)](https://medicine.yale.edu/profile/john-tsang/?tab=bio) and [Ken Smith (Cambridge)](https://www.wehi.edu.au/researcher/ken-smith/). On the methodological side, we developed computational approaches for denoising and statistical modeling new multimodal single cell profiling methods such as CITE-seq.  
+How can we improve clinical outcomes for patients by understanding and measuring the global state of their immune system? I focused on developing the concept of homeostatic human immune system "setpoints" and later immune response dynamics that predict vaccination, infection, and cancer immunotherapy outcomes in my PhD at Cambridge and NIH with [John Tsang (NIH)](https://medicine.yale.edu/profile/john-tsang/?tab=bio) and [Ken Smith (Cambridge)](https://www.wehi.edu.au/researcher/ken-smith/). Setpoints and response states are formed by molecular networks of information shared between immune cell subsets. We can now measure these networks with high dimensional immune cell profiling in humans, including combined surface protein and transcriptome measurement in single cells. On the methodological side, I focused on understanding sources of noise in these methods and developed open source software for normalization / denoising / human cohort analysis. 
 
-
-<u>I'm currently focused on advancing the field of personalized clinical immunology on two major fronts: </u> 1. Investigating the basic science of how molecular human immune subtypes emerge and control response to cancer immunotherapy, vaccination and treatment of immune mediated inflammatory diseases. 2. Development of personalized therapeutic strategies for patients informed by low-cost global immune system profiling in the clinical immunology laboratory. 
+<u>I'm currently focused on advancing the field of personalized clinical immunology on two fronts: </u> 
+<br>
+1. Investigating how molecular networks define human immune variation with a goal of defining immune system "subtypes" that predict clinical responses to cancer immunotherapy, vaccination, and treatment of immune mediated/inflammatory disease. 
+<br>
+<br>
+2. Developing personalized therapeutic strategies for patients informed by low-cost global immune system diagnostic tests that can be implemented in the clinical immunology laboratory. 
 
 <br>
-<center>Selected work</center>
+<center>**Selected work**</center>
 <br>
 
 #### [**Integrating population and single-cell variations in vaccine responses identifies a naturally adjuvanted human immune setpoint**](/man/pdf/MPM_immunity_2024.pdf)  
@@ -34,15 +39,19 @@ Multimodal single-cell profiling methods can capture immune cell variations unfo
     <button>Editorial coverage</button>
   </a>
 </div>
-<div style="display: flex; justify-content: space-between;">
-  <img src="man/figures/immunity_cover_2024.png" alt="Image 2" style="width: 35%;margin-right: 10px;">
-  <img src="man/figures/immunity_2024.png" alt="Image 1" style="width: 35%; margin-left: 10px;">
-</div>
+
+<br>
+
+<p align="center">
+<img width = "1000" src="man/figures/immunity_20243.png" />
+</p>
 
 
 
 <br>
 <br>
+<br>
+
 <img align="right"  height = "500" style="margin-left: 15px;" src="man/figures/dsb_fig1.png" />
 
 #### [**Normalizing and denoising protein expression data from droplet-based single cell profiling**](https://www.nature.com/articles/s41467-022-29356-8)  
@@ -65,6 +74,9 @@ Multimodal single-cell profiling methods that measure protein expression with ol
 </div>
 
 <br>
+<br>
+<br>
+
 <img align="right" height = "600" style="margin-left: 15px;" src="man/figures/irae_diagram.png" />  
 
 #### [**Contrasting autoimmune and treatment effects reveals baseline set points of immune toxicity following checkpoint inhibitor treatment**](https://www.biorxiv.org/content/10.1101/2022.06.05.494592v1) 
@@ -82,3 +94,5 @@ Immune checkpoint inhibitors (ICIs) have changed the cancer treatment landscape,
     <button>DOI</button>
   </a>
 </div>
+
+<br>
