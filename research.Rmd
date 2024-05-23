@@ -23,8 +23,9 @@ knitr::opts_chunk$set(
 <br>
 *Methodological development: computational approaches for analysis of multiomic single cell protein expression data*
 <hr>
-**Normalizing and denoising protein expression data from droplet-based single cell profiling** 
-Mulè MP#, Martins AJ#, Tsang JS <u> Nature Communications </u> (2022) <a href="/man/pdf/dsb_paper_2022.pdf"> <button>PDF</button> </a> </u> <a href="https://github.com/niaid/dsb"> <button>R package on CRAN</button> </a>
+**Normalizing and denoising protein expression data from droplet-based single cell profiling** <br>
+Mulè MP#, Martins AJ#, Tsang JS 
+<br> <u> Nature Communications </u> (2022) <a href="/man/pdf/dsb_paper_2022.pdf"> <button>PDF</button> </a> </u> <a href="https://github.com/niaid/dsb"> <button>R package on CRAN</button> </a>
 <br>
 <br>
 Also see additional [Software](https://mattpm.net/dsb.ref.html)
@@ -32,72 +33,87 @@ Also see additional [Software](https://mattpm.net/dsb.ref.html)
 <br>
 *Identifying molecular immune cell circuits that predict responses to vaccination, cancer immunotherapy, and infection*
 <hr>
-**Integrating population and single-cell variations in vaccine responses identifies a naturally adjuvanted human immune setpoint.**<br> Mulè MP, Martins AJ, Cheung F, Farmer R, Sellers BA, Quiel JA, Jain A, Kotliarov Y, Bansal N, Chen J, Schwartzberg PL, Tsang JS.  __Immunity__ (2024) PMID: 38697118 <a href="/man/pdf/natural_adjuvant_immunity_2024.pdf"> <button>PDF</button> </a> <a href="/man/pdf/immunity_2024_editorial.pdf"> <button>editorial coverage</button> </a>
+**Integrating population and single-cell variations in vaccine responses identifies a naturally adjuvanted human immune setpoint.**<br> Mulè MP, Martins AJ, Cheung F, Farmer R, Sellers BA, Quiel JA, Jain A, Kotliarov Y, Bansal N, Chen J, Schwartzberg PL, Tsang JS. 
+<br> <u>Immunity</u> (2024) PMID: 38697118 <a href="/man/pdf/natural_adjuvant_immunity_2024.pdf"> <button>PDF</button> </a> <a href="/man/pdf/immunity_2024_editorial.pdf"> <button>editorial coverage</button> </a>
 <br>
 <br>
 **Contrasting autoimmune and treatment effects reveals baseline set points of immune toxicity following checkpoint inhibitor treatment** <br> 
 Mulè MP#, Zhao C#, Martins AJ, Pinal-Fernandez I, Donahue RN, Chen J, Schlom J, Gulley JL, Mammen A, Tsang JS, Rajan A 
-Contrasting autoimmune and treatment effects reveals baseline set points of immune toxicity following checkpoint inhibitor treatment bioRxiv (2022) [PDF](https://doi.org/10.1101/2022.06.05.494592)
+<br> <u>bioRxiv </u> (2022) [PDF](https://doi.org/10.1101/2022.06.05.494592)
 <br>
 <br>
 **Iron dysregulation and inflammatory stress erythropoiesis associates with long-term outcome of COVID-19** <br>
-Hanson AL, Mulè MP, Ruffieux H, Mescia F, Bergamaschi L, Pelly VS, Turner L, Kotagiri P; CITIID–NIHR, COVID BioResource Collaboration; Göttgens B, Hess C, Gleadall N, Bradley JR, Nathan JA, Lyons PA, Drakesmith H, Smith KGC. <u> Nature Immunology </u> (2024) PMID: 38429458 <a href="/man/pdf/iron_covid_2024.pdf"> <button>PDF</button> </a> <a href="/man/pdf/iron_covid_editorial.pdf"> <button>editorial coverage</button> </a>
+Hanson AL, Mulè MP, Ruffieux H, Mescia F, Bergamaschi L, Pelly VS, Turner L, Kotagiri P; CITIID–NIHR, COVID BioResource Collaboration; Göttgens B, Hess C, Gleadall N, Bradley JR, Nathan JA, Lyons PA, Drakesmith H, Smith KGC.
+<br> <u> Nature Immunology </u> (2024) PMID: 38429458 <a href="/man/pdf/iron_covid_2024.pdf"> <button>PDF</button> </a> <a href="/man/pdf/iron_covid_editorial.pdf"> <button>editorial coverage</button> </a>
 <br>
 <br>
 **Broad immune activation underlies shared set point signatures for vaccine responsiveness in healthy individuals and disease activity in patients with lupus.**<br>
-Kotliarov Y#, Sparks R#, (#equal contribution) Martins AJ+, Mulè MP+, Lu Y+, (+equal contribution), Goswami M, Kardava L, Banchereau R, Pascual V, Biancotto A, Chen J, Schwartzberg PL, Bansal N, Liu CC, Cheung F, Moir S, Tsang JS. <u>Nature Medicine</u> (2020) PMID: 32094927 <a href="/man/pdf/shared_setpoint_natmed_2020.pdf"> <button>PDF</button> <a href="/man/pdf/shared_setpoint_editorial.pdf"> <button>editorial coverage</button> </a>  </a> 
+Kotliarov Y#, Sparks R#, (#equal contribution) Martins AJ+, Mulè MP+, Lu Y+, (+equal contribution), Goswami M, Kardava L, Banchereau R, Pascual V, Biancotto A, Chen J, Schwartzberg PL, Bansal N, Liu CC, Cheung F, Moir S, Tsang JS. 
+<br> <u>Nature Medicine</u> (2020) PMID: 32094927 <a href="/man/pdf/shared_setpoint_natmed_2020.pdf"> <button>PDF</button> <a href="/man/pdf/shared_setpoint_editorial.pdf"> <button>editorial coverage</button> </a>  </a> 
 <br>
 <br>
 **Time-resolved systems immunology reveals a late juncture linked to fatal COVID-19** <br>
-Liu C, Martins AJ, Lau WW, Rachmaninoff N, Chen J, Imberti L, Mostaghimi D, Fink DL, Burbelo PD, Dobbs K, Delmonte OM, Bansal N, Failla L, Sottini A, Quiros-Roldan E, Han KL, Sellers BA, Cheung F, Sparks R, Chun TW, Moir S, Lionakis MS; NIAID COVID Consortium; COVID Clinicians; Rossi C, Su HC, Kuhns DB, Cohen JI, Notarangelo LD, Tsang JS.  <u>Cell</u> (2021) PMID: 33713619  [pdf](https://www.cell.com/action/showPdf?pii=S0092-8674%2821%2900168-9)
+Liu C, Martins AJ, Lau WW, Rachmaninoff N, Chen J, Imberti L, Mostaghimi D, Fink DL, Burbelo PD, Dobbs K, Delmonte OM, Bansal N, Failla L, Sottini A, Quiros-Roldan E, Han KL, Sellers BA, Cheung F, Sparks R, Chun TW, Moir S, Lionakis MS; NIAID COVID Consortium; COVID Clinicians; Rossi C, Su HC, Kuhns DB, Cohen JI, Notarangelo LD, Tsang JS.
+<br> <u>Cell</u> (2021) PMID: 33713619 <a href="https://www.cell.com/action/showPdf?pii=S0092-8674%2821%2900168-9"> <button>PDF</button> </a>
 <br>
 <br>
 *Systems immunology studies of vaccination response* 
 <hr>
-**Transcriptional atlas of the human immune response to 13 vaccines reveals a common predictor of vaccine-induced antibody responses.** <br>Hagan T, Gerritsen B, Tomalin LE, Fourati S, Mulè MP, Chawla DG, Rychkov D, Henrich E, Miller HER, Diray-Arce J, Dunn P, Lee A; Human Immunology Project Consortium (HIPC); Levy O, Gottardo R, Sarwal MM, Tsang JS, Suárez-Fariñas M, Sékaly RP, Kleinstein SH, Pulendran B. Transcriptional atlas of the human immune response to 13 vaccines reveals a common predictor of vaccine-induced antibody responses. <u>Nature Immunology</u> (2022) PMID: 36316475 [PDF](https://pubmed.ncbi.nlm.nih.gov/36316475/)
+**Transcriptional atlas of the human immune response to 13 vaccines reveals a common predictor of vaccine-induced antibody responses.** <br>Hagan T, Gerritsen B, Tomalin LE, Fourati S, Mulè MP, Chawla DG, Rychkov D, Henrich E, Miller HER, Diray-Arce J, Dunn P, Lee A; Human Immunology Project Consortium (HIPC); Levy O, Gottardo R, Sarwal MM, Tsang JS, Suárez-Fariñas M, Sékaly RP, Kleinstein SH, Pulendran B. Transcriptional atlas of the human immune response to 13 vaccines reveals a common predictor of vaccine-induced antibody responses. 
+<br> <u>Nature Immunology</u> (2022) PMID: 36316475 <a href="https://pubmed.ncbi.nlm.nih.gov/36316475/"> <button>PDF</button> </a>
 <br>
 <br>
 **Pan-vaccine analysis reveals innate immune endotypes predictive of antibody responses to vaccination.**<br>
-Fourati S, Tomalin LE, Mulè MP, Chawla DG, Gerritsen B, Rychkov D, Henrich E, Miller HER, Hagan T, Diray-Arce J, Dunn P; Human Immunology Project Consortium (HIPC); Levy O, Gottardo R, Sarwal MM, Tsang JS, Suárez-Fariñas M, Pulendran B, Kleinstein SH, Sékaly RP. Nature Immmunology PMID: 36316476 (2022) [pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9747610/)
+Fourati S, Tomalin LE, Mulè MP, Chawla DG, Gerritsen B, Rychkov D, Henrich E, Miller HER, Hagan T, Diray-Arce J, Dunn P; Human Immunology Project Consortium (HIPC); Levy O, Gottardo R, Sarwal MM, Tsang JS, Suárez-Fariñas M, Pulendran B, Kleinstein SH, Sékaly RP.
+<br> <u>Nature Immmunology</u> PMID: 36316476 (2022) <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9747610/"> <button>PDF</button> </a>
 <br>
 <br>
 **The Immune Signatures data resource, a compendium of systems vaccinology datasets.**  
-Diray-Arce J, Miller HER, Henrich E, Gerritsen B, Mulè MP, Fourati S, Gygi J, Hagan T, Tomalin L, Rychkov D, Kazmin D, Chawla DG, Meng H, Dunn P, Campbell J; Human Immunology Project Consortium (HIPC); Sarwal M, Tsang JS, Levy O, Pulendran B, Sekaly R, Floratos A, Gottardo R, Kleinstein SH, Suárez-Fariñas M.  Scientific Data (2022) PMID: 36266291 [PDF](https://www.nature.com/articles/s41597-022-01714-7)
+Diray-Arce J, Miller HER, Henrich E, Gerritsen B, Mulè MP, Fourati S, Gygi J, Hagan T, Tomalin L, Rychkov D, Kazmin D, Chawla DG, Meng H, Dunn P, Campbell J; Human Immunology Project Consortium (HIPC); Sarwal M, Tsang JS, Levy O, Pulendran B, Sekaly R, Floratos A, Gottardo R, Kleinstein SH, Suárez-Fariñas M. 
+<br> <u>Scientific Data</u> (2022) PMID: 36266291 <a href="https://www.nature.com/articles/s41597-022-01714-7"> <button>PDF</button> </a>
 <br>
 <br>
 **Intravenous nanoparticle vaccination generates stem-like TCF1+ neoantigen-specific CD8+ T cells** <br>
-Baharom F, Ramirez-Valdez RA, Tobin KKS, Yamane H, Dutertre CA, Khalilnezhad A, Reynoso GV, Coble VL, Lynn GM, Mulè MP, Martins AJ, Finnigan JP, Zhang XM, Hamerman JA, Bhardwaj N, Tsang JS, Hickman HD, Ginhoux F, Ishizuka AS, Seder RA. <u>Nature Immunology</u> (2021) PMID: 33139915 <a href="/man/pdf/neoantigen_vaccine_2021.pdf"> <button>PDF</button> </a>
+Baharom F, Ramirez-Valdez RA, Tobin KKS, Yamane H, Dutertre CA, Khalilnezhad A, Reynoso GV, Coble VL, Lynn GM, Mulè MP, Martins AJ, Finnigan JP, Zhang XM, Hamerman JA, Bhardwaj N, Tsang JS, Hickman HD, Ginhoux F, Ishizuka AS, Seder RA.
+<br> <u>Nature Immunology</u> (2021) PMID: 33139915 <a href="/man/pdf/neoantigen_vaccine_2021.pdf"> <button>PDF</button> </a>
 <br>
 <br>
-*Clinical pathology and molecular diagnostics in immune mediated disease and hematologic malignancies*
+*Clinical molecular diagnostics and pathology in immune mediated disease and hematologic malignancies*
 <hr>
 **Multigene Measurable Residual Disease Assessment Improves Acute Myeloid Leukemia Relapse Risk Stratification in Autologous Hematopoietic Cell Transplantation** <br>
-Mulé MP, Mannis GN, Wood BL, Radich JP, Hwang J, Ramos NR, Andreadis C, Damon L, Logan AC, Martin TG, Hourigan CS.  Biol Blood Marrow Transplant. (2016) PMID: 27544285 <a href="/man/pdf/automrd_BBMT_2016.pdf"> <button>PDF</button> </a>
+Mulé MP, Mannis GN, Wood BL, Radich JP, Hwang J, Ramos NR, Andreadis C, Damon L, Logan AC, Martin TG, Hourigan CS. 
+<br><u>Biology of Blood and Marrow Transplantation </u> (2016) PMID: 27544285 <a href="/man/pdf/automrd_BBMT_2016.pdf"> <button>PDF</button> </a>
 <br>
 <br>
 **Advancing the Minimal Residual Disease Concept in Acute Myeloid Leukemia** <br>
-Hokland P, Ommen HB, Mulé MP, Hourigan CS.  Seminars in Hematology (2015) PMID: 26111465 <a href="/man/pdf/advancing_mrd_seminars_hematology_2015.pdf"> <button>PDF</button> </a> 
-<br>
-<br>
-**Rapid progression to AML in a patient with germline GATA2 mutation and acquired NRAS Q61K mutation.** <br>
-McReynolds LJ, Zhang Y, Yang Y, Tang J, Mulé M, Hsu AP, Townsley DM, West RR, Zhu J, Hickstein DD, Holland SM, Calvo KR, Hourigan CS. Leukemia Research Reports (2019) PMID: 31245276 <a href="/man/pdf/GATA2_AML_2019.pdf"> <button>PDF</button> </a> 
+Hokland P, Ommen HB, Mulé MP, Hourigan CS. 
+<br> <u>Seminars in Hematology</u> (2015) PMID: 26111465 <a href="/man/pdf/advancing_mrd_seminars_hematology_2015.pdf"> <button>PDF</button> </a> 
 <br>
 <br>
 **MDS-associated mutations in germline GATA2 mutated patients with hematologic manifestations**<br>
-McReynolds LJ, Yang Y, Yuen Wong H, Tang J, Zhang Y, Mulé MP, Daub J, Palmer C, Foruraghi L, Liu Q, Zhu J, Wang W, West RR, Yohe ME, Hsu AP, Hickstein DD, Townsley DM, Holland SM, Calvo KR, Hourigan CS. Leukemia Research (2019) PMID: 30578959 <a href="/man/pdf/GATA2_cohort_2019.pdf"> <button>PDF</button> </a>
+McReynolds LJ, Yang Y, Yuen Wong H, Tang J, Zhang Y, Mulé MP, Daub J, Palmer C, Foruraghi L, Liu Q, Zhu J, Wang W, West RR, Yohe ME, Hsu AP, Hickstein DD, Townsley DM, Holland SM, Calvo KR, Hourigan CS.
+<br> <u>Leukemia Research</u> (2019) PMID: 30578959 <a href="/man/pdf/GATA2_cohort_2019.pdf"> <button>PDF</button> </a>
+<br>
+<br>
+**Rapid progression to AML in a patient with germline GATA2 mutation and acquired NRAS Q61K mutation.** <br>
+McReynolds LJ, Zhang Y, Yang Y, Tang J, Mulé M, Hsu AP, Townsley DM, West RR, Zhu J, Hickstein DD, Holland SM, Calvo KR, Hourigan CS.
+<br> <u>Leukemia Research Reports</u> (2019) PMID: 31245276 <a href="/man/pdf/GATA2_AML_2019.pdf"> <button>PDF</button> </a> 
 <br>
 <br>
 **Molecular Measurable Residual Disease Testing of Blood During AML Cytotoxic Therapy for Early Prediction of Clinical Response** <br>
-Wong HY, Sung AD, Lindblad KE, Sheela S, Roloff GW, Rizzieri D, Goswami M, Mulé MP, Ramos NR, Tang J, Thompson J, DeStefano CB, Romero K, Dillon LW, Kim DY, Lai C, Hourigan CS. Frontiers in Oncology (2019) PMID: 30697529 <a href="/man/pdf/early_mrd_frontiers_2019.pdf"> <button>PDF</button> </a> 
+Wong HY, Sung AD, Lindblad KE, Sheela S, Roloff GW, Rizzieri D, Goswami M, Mulé MP, Ramos NR, Tang J, Thompson J, DeStefano CB, Romero K, Dillon LW, Kim DY, Lai C, Hourigan CS. 
+<br> <u>Frontiers in Oncology</u> (2019) PMID: 30697529 <a href="/man/pdf/early_mrd_frontiers_2019.pdf"> <button>PDF</button> </a> 
 <br>
 <br>
 *Bacterial transcriptional dynamics in infection*
 <hr>
 **The core promoter of the capsule operon of Streptococcus pneumoniae is necessary and sufficient for colonization and invasive disease.**<br>
-Shainheit MG, Mulé M, Camilli A. Infection and Immunity (2014) PMID: 24478084 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3911406/pdf/zii694.pdf"> <button>PDF</button> </a>
+Shainheit MG, Mulé M, Camilli A. 
+<br> <u>Infection and Immunity</u> (2014) PMID: 24478084 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3911406/pdf/zii694.pdf"> <button>PDF</button> </a>
 <br>
 <br>
 **Iron- dependent gene expression in Actinomyces oris** <br>
-Mulè MP, Giacalone D, Lawlor K, Golden A, Cook C, Lott T, Aksten E, O’Toole GA, Bergeron, LJ. Journal of Oral Microbiolog (2015 )PMID: 26685151 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684579/pdf/JOM-7-29800.pdf"> <button>PDF</button> </a>
+Mulè MP, Giacalone D, Lawlor K, Golden A, Cook C, Lott T, Aksten E, O’Toole GA, Bergeron, LJ
+<br> <u> Journal of Oral Microbiolog </u> (2015 )PMID: 26685151 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684579/pdf/JOM-7-29800.pdf"> <button>PDF</button> </a>
 <br>
 <br>

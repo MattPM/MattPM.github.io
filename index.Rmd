@@ -38,12 +38,15 @@ Multimodal single-cell profiling methods can capture immune cell variations unfo
     <a href="/man/pdf/immunity_2024_editorial.pdf">
     <button>Editorial coverage</button>
   </a>
+    <a href="https://twitter.com/MPMule/status/1790479570979672126">
+    <button>cover art</button>
+  </a>
 </div>
 
 <br>
 
 <p align="center">
-<img width = "1000" src="man/figures/immunity_20243.png" />
+<img width = "1000" src="man/figures/immunity_20243.png"/> 
 </p>
 
 
