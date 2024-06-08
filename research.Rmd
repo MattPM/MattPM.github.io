@@ -59,13 +59,13 @@ Liu C, Martins AJ, Lau WW, Rachmaninoff N, Chen J, Imberti L, Mostaghimi D, Fink
 <br>
 *Comparative systems immunology studies of vaccination response and vaccine engineering* 
 <hr>
-**Transcriptional atlas of the human immune response to 13 vaccines reveals a common predictor of vaccine-induced antibody responses.** <br>Hagan T, Gerritsen B, Tomalin LE, Fourati S, Mulè MP, Chawla DG, Rychkov D, Henrich E, Miller HER, Diray-Arce J, Dunn P, Lee A; Human Immunology Project Consortium (HIPC); Levy O, Gottardo R, Sarwal MM, Tsang JS, Suárez-Fariñas M, Sékaly RP, Kleinstein SH, Pulendran B. Transcriptional atlas of the human immune response to 13 vaccines reveals a common predictor of vaccine-induced antibody responses. 
+**Transcriptional atlas of the human immune response to 13 vaccines reveals a common predictor of vaccine-induced antibody responses.** <br>Hagan T, Gerritsen B, Tomalin LE, Fourati S, Mulè MP, Chawla DG, Rychkov D, Henrich E, Miller HER, Diray-Arce J, Dunn P, Lee A; Human Immunology Project Consortium (HIPC); Levy O, Gottardo R, Sarwal MM, Tsang JS, Suárez-Fariñas M, Sékaly RP, Kleinstein SH, Pulendran B. 
 <br> <u>Nature Immunology</u> (2022) PMID: 36316475 <a href="https://pubmed.ncbi.nlm.nih.gov/36316475/"> <button>PDF</button> </a>
 <br>
 <br>
 **Pan-vaccine analysis reveals innate immune endotypes predictive of antibody responses to vaccination.**<br>
 Fourati S, Tomalin LE, Mulè MP, Chawla DG, Gerritsen B, Rychkov D, Henrich E, Miller HER, Hagan T, Diray-Arce J, Dunn P; Human Immunology Project Consortium (HIPC); Levy O, Gottardo R, Sarwal MM, Tsang JS, Suárez-Fariñas M, Pulendran B, Kleinstein SH, Sékaly RP.
-<br> <u>Nature Immmunology</u> PMID: 36316476 (2022) <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9747610/"> <button>PDF</button> </a>
+<br> <u>Nature Immunology</u> PMID: 36316476 (2022) <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9747610/"> <button>PDF</button> </a>
 <br>
 <br>
 **The Immune Signatures data resource, a compendium of systems vaccinology datasets.**  
@@ -114,6 +114,6 @@ Shainheit MG, Mulé M, Camilli A.
 <br>
 **Iron- dependent gene expression in Actinomyces oris** <br>
 Mulè MP, Giacalone D, Lawlor K, Golden A, Cook C, Lott T, Aksten E, O’Toole GA, Bergeron, LJ
-<br> <u> Journal of Oral Microbiolog </u> (2015 )PMID: 26685151 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684579/pdf/JOM-7-29800.pdf"> <button>PDF</button> </a>
+<br> <u> Journal of Oral Microbiology </u> (2015 )PMID: 26685151 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684579/pdf/JOM-7-29800.pdf"> <button>PDF</button> </a>
 <br>
 <br>
