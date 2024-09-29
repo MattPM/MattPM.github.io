@@ -13,7 +13,7 @@
 
 <title>research</title>
 
-<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.28/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -30,8 +30,8 @@
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -278,30 +278,32 @@ $(document).ready(function () {
 <strong>Matt Mulè PhD</strong>
 </center>
 <p><br> <br></p>
-<p>How can we improve clinical outcomes for patients by understanding
-and measuring the global state of their immune system? I focused on
-developing the concept of homeostatic human immune system “setpoints”
-and later immune response dynamics that predict vaccination, infection,
-and cancer immunotherapy outcomes in my PhD at Cambridge and NIH with <a
+<p>Human immune systems are sensory systems shaped by the individual’s
+development and the environment, much like the brain. They are thus
+markedly variable between even genetically identical individuals.</p>
+<p>During my PhD at Cambridge and NIH, with <a
 href="https://medicine.yale.edu/profile/john-tsang/?tab=bio">John Tsang
 (NIH)</a> and <a
 href="https://www.wehi.edu.au/researcher/ken-smith/">Ken Smith
-(Cambridge)</a>. Setpoints and response states are formed by molecular
-networks of information shared between immune cell subsets. We can now
-measure these networks with high dimensional immune cell profiling in
-humans, including combined surface protein and transcriptome measurement
-in single cells. On the methodological side, I focused on understanding
-sources of noise in these methods and developed open source software for
-normalization / denoising / human cohort analysis.</p>
-<p><u>I’m currently focused on advancing the field of personalized
-clinical immunology on two fronts: </u> <br> 1. Investigating how
-molecular networks define human immune variation with a goal of defining
-immune system “subtypes” that predict clinical responses to cancer
-immunotherapy, vaccination, and treatment of immune
-mediated/inflammatory disease. <br> <br> 2. Developing personalized
-therapeutic strategies for patients informed by low-cost global immune
-system diagnostic tests that can be implemented in the clinical
-immunology laboratory.</p>
+(Cambridge)</a>, I focused on advancing the concept of identifying and
+measuring homeostatic human immune system “setpoints”; baseline states
+that, along with dynamic immune responses, predict outcomes to
+vaccination, infection, and cancer immunotherapy.</p>
+<p>My work uses systems immunology approaches to conceptualize the
+immune system as a communication network. By developing analysis methods
+for modern profiling tools, we define how all the cell subsets
+comprising the immune system communicate to “wire” these homeostatic
+setpoints and response states.</p>
+<p>On the technical side, I develop open-source tools to address assay
+noise and implement mixed effects models and network analysis to tackle
+datasets with complex nesting structures. The software tools I develop
+enable the incorporation and integration of human population variations
+into statistical inferences crucial for understanding human immune
+variation.</p>
+<p>Currently, my research has a dual focus using systems immunology
+approaches to: 1. Understand human immune system variation across
+diverse pathologies. 2. Develop molecular diagnostic tools based on
+these multicell networks for the clinical immunology laboratory.</p>
 <br>
 <center>
 <strong>Selected work</strong>
@@ -347,7 +349,7 @@ coverage</button> </a>
 <p align="center">
 <img width = "1000" src="man/figures/immunity_20243.png"/>
 </p>
-<p><br> <br> <br></p>
+<p><br> <br></p>
 <p><img align="right"  height = "500" style="margin-left: 15px;" src="man/figures/dsb_fig1.png" /></p>
 </div>
 <div
@@ -383,16 +385,16 @@ href="https://cran.r-project.org/package=dsb"
 class="uri">https://cran.r-project.org/package=dsb</a>]”.</p>
 <div class="button-container">
 <p><a href="/man/pdf/dsb_paper_2022.pdf"> <button>PDF</button> </a>
-<a href="https://github.com/niaid/dsb_manuscript"> <button><a
-href="https://github.com/niaid/dsb_manuscript"><img src="man/figures/github-mark.png" width="20"></a>
-code </button> </a>
+<a href="https://github.com/niaid/dsb_manuscript">
+<button><img src="man/figures/github-mark.png" width="20" alt = "Github">
+code</button> </a>
 <a href="https://www.nature.com/articles/s41467-022-29356-8">
 <button>DOI</button> </a>
 <a href="https://CRAN.R-project.org/package=dsb"> <button>R
 Package</button> </a></p>
 </div>
 <p><br> <br> <br></p>
-<p><img align="right" height = "600" style="margin-left: 15px;" src="man/figures/irae_diagram.png" /></p>
+<p><img align="right" height = "500" style="margin-left: 15px;" src="man/figures/irae_diagram.png" /></p>
 </div>
 <div
 id="contrasting-autoimmune-and-treatment-effects-reveals-baseline-set-points-of-immune-toxicity-following-checkpoint-inhibitor-treatment"
@@ -403,34 +405,26 @@ autoimmune and treatment effects reveals baseline set points of immune
 toxicity following checkpoint inhibitor treatment</strong></a></h4>
 <p><strong>BioRxiv (2022)</strong> Immune checkpoint inhibitors (ICIs)
 have changed the cancer treatment landscape, but severe immune-related
-adverse events (irAEs) can be life-threatening or fatal and may prohibit
-patients from receiving further ICI treatment. While the clinical
-features of irAEs are well documented, molecular signatures, predictive
-biomarkers, and mechanisms of impending irAEs are largely unknown. In
-addition, the markers and mechanisms of ICI-induced antitumor immunity
-often overlap with those for irAEs. It is thus critical to uncover
-signatures associated specifically with irAEs but not with antitumor
-immunity. To identify circulating immune cell states associated with
-irAEs, we applied multimodal single cell analysis (CITE-seq) to
-simultaneously measure the transcriptome and surface proteins from
-peripheral blood mononuclear cells (PBMCs) collected before and after
-treatment with an anti-PD-L1 antibody (avelumab) in patients with thymic
-cancers (thymic epithelial tumors). All patients had an antitumor
-response, yet a subset developed muscle autoimmunity (myositis), a
-potentially life-threatening irAE. Mixed-effect modeling disentangled
-cell type-specific transcriptional states associated with ICI treatment
-responses from those of irAEs to identify temporally stable
-pre-treatment immune set points associated with irAEs only. These
-pre-treatment baseline signatures of irAE developed post-avelumab irAEs
-reflect correlated transcriptional states of multiple innate and
-adaptive immune cell populations, including elevation of metabolic genes
-downstream of mTOR signaling in T-cell subsets. Together these findings
-suggest putative pre-treatment biomarkers for irAEs following ICI
-therapy in thymic cancer patients and raise the prospect of
-therapeutically dampening autoimmunity while sparing antitumor activity
-in cancer patients treated with ICIs. Together, pre-treatment biomarkers
-and interventional therapeutics could help mitigate treatment
-discontinuation and improve clinical outcomes.</p>
+adverse events (irAEs) can trigger life-threatening autoimmunity or
+treatment discontinuation. Uncovering immune phenotypes associated
+specifically with irAEs but not antitumor immunity could help mitigate
+treatment discontinuation and improve clinical outcomes. We carried out
+simultaneous transcriptome and surface protein profiling of blood immune
+cells from thymic cancer patients before and after treatment with the
+anti-PD-L1 antibody avelumab. All patients had antitumor responses, yet
+a subset developed severe myositis. We developed an analytical framework
+to disentangle phenotypes linked to treatment responses versus irAEs.
+Our approach identified a temporally stable, pre-treatment immune set
+point associated with irAEs, but not anti-tumor effects, consisting of
+correlated innate and adaptive cell phenotypes. These phenotypes
+included potentially actionable genes downstream of mTOR in T-cell
+subsets. Elevated expression of gene signatures reflecting this
+irAE-associated setpoint at baseline in other types of cancer predicted
+the development of irAEs after treatment with different checkpoint
+inhibitors. Together our findings indicate a generalizable baseline
+immune setpoint linked to the development of irAEs after ICI treatment
+and raise the prospect of therapeutically dampening autoimmunity while
+sparing antitumor activity in the setting of checkpoint inhibition.</p>
 <div class="button-container">
 <p><a href="https://www.biorxiv.org/content/10.1101/2022.06.05.494592v1">
 <button>PDF</button> </a>

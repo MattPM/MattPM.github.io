@@ -53,12 +53,17 @@ Kotliarov Y#, Sparks R#, (#equal contribution) Martins AJ+, Mulè MP+, Lu Y+, (+
 <br>
 <br>
 **Time-resolved systems immunology reveals a late juncture linked to fatal COVID-19** <br>
-Liu C, Martins AJ, Lau WW, Rachmaninoff N, Chen J, Imberti L, Mostaghimi D, Fink DL, Burbelo PD, Dobbs K, Delmonte OM, Bansal N, Failla L, Sottini A, Quiros-Roldan E, Han KL, Sellers BA, Cheung F, Sparks R, Chun TW, Moir S, Lionakis MS; NIAID COVID Consortium; COVID Clinicians; Rossi C, Su HC, Kuhns DB, Cohen JI, Notarangelo LD, Tsang JS.
-<br> <u>Cell</u> (2021) PMID: 33713619 <a href="https://www.cell.com/action/showPdf?pii=S0092-8674%2821%2900168-9"> <button>PDF</button> </a>
+Liu C, Martins AJ, Lau WW, Rachmaninoff N, Chen J, Imberti L, Mostaghimi D, Fink DL, Burbelo PD, Dobbs K, Delmonte OM, Bansal N, Failla L, Sottini A, Quiros-Roldan E, Han KL, Sellers BA, Cheung F, Sparks R, Chun TW, Moir S, Lionakis MS; NIAID COVID Consortium: Abers MS, Apps R, Bosticardo M, Milanez-Almeida P, Mulè MP, Shaw E, Zhang. Y; COVID Clinicians; Rossi C, Su HC, Kuhns DB, Cohen JI, Notarangelo LD, Tsang JS. <br>
+<u>Cell</u> (2021) PMID: 33713619 <a href="https://www.cell.com/action/showPdf?pii=S0092-8674%2821%2900168-9"> <button>PDF</button> </a>
 <br>
 <br>
 *Comparative systems immunology studies of vaccination response and vaccine engineering* 
 <hr>
+**Acute and persistent responses after H5N1 vaccination in humans**<br>
+Apps R, Biancotto A, Candia J, Kotliarov Y, Pearl S, Cheung F, Farmer R, Mulè MP, Rachmaninoff N, Chen J, Martins AJ, Rongye S, Zhou H, Bansal N, Schum P, Olnes MJ, Milanez-Almeida P, Han K, Kyu L, Sellers B, Cortese M, Hagan T, Rouphael N, Pulendran B, King L, Manischewitz J, Khurana S, Golding H, Van Der Most RG, Dickler HB, Germain RN Schwartzberg PL, Tsang JS<br>
+<u>Cell Reports</u> (2024) PMID: 39235945 <a href="https://www.cell.com/cell-reports/pdf/S2211-1247(24)01057-X.pdf"> <button>PDF</button> </a>
+<br>
+<br>
 **Transcriptional atlas of the human immune response to 13 vaccines reveals a common predictor of vaccine-induced antibody responses.** <br>Hagan T, Gerritsen B, Tomalin LE, Fourati S, Mulè MP, Chawla DG, Rychkov D, Henrich E, Miller HER, Diray-Arce J, Dunn P, Lee A; Human Immunology Project Consortium (HIPC); Levy O, Gottardo R, Sarwal MM, Tsang JS, Suárez-Fariñas M, Sékaly RP, Kleinstein SH, Pulendran B. 
 <br> <u>Nature Immunology</u> (2022) PMID: 36316475 <a href="https://pubmed.ncbi.nlm.nih.gov/36316475/"> <button>PDF</button> </a>
 <br>
